@@ -1,0 +1,7 @@
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\bin\Debug\ProjetoDemo.exe.config
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\bin\Debug\ProjetoDemo.exe
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\bin\Debug\ProjetoDemo.pdb
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\obj\Debug\ProjetoDemo.csprojAssemblyReference.cache
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\obj\Debug\ProjetoDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\obj\Debug\ProjetoDemo.exe
+C:\Users\Dougahasu\source\repos\ProjetoDemo\ProjetoDemo\obj\Debug\ProjetoDemo.pdb
